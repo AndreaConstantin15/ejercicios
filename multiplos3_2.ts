@@ -11,5 +11,6 @@ for( let cont :number=0;cont<= 100;cont++){
     if (cont%2==0||cont%3==0){
        resultado+=`${cont}, `
     }
+    
 }    
 console.log("multiplos 2,multiplos 3:",resultado)
